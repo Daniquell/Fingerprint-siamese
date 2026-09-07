@@ -1,5 +1,4 @@
 # Siamese Neural Network for Fingerprint-Based Biometric Authentication
-Siamese Network for fingerprint verification
 
 ## Project Overview
 - A Siamese neural network architecture was implemented for the pairwise comparison of fingerprint images. 
